@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/willicali40/movieland/static/css/main.e6672616.css",
+    "main.js": "/willicali40/movieland/static/js/main.45d84f88.js",
+    "index.html": "/willicali40/movieland/index.html",
+    "main.e6672616.css.map": "/willicali40/movieland/static/css/main.e6672616.css.map",
+    "main.45d84f88.js.map": "/willicali40/movieland/static/js/main.45d84f88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6672616.css",
+    "static/js/main.45d84f88.js"
+  ]
+}
